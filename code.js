@@ -1,12 +1,12 @@
 let cardsData = [
     {
         "id": "kcet",
-        "symbol": "☀",
+        "symbol": "☾",
         "pair": 1
     },
     {
         "id": "rgfd",
-        "symbol": "☀",
+        "symbol": "☾",
         "pair": 1
     },
     {
@@ -41,12 +41,12 @@ let cardsData = [
     },
     {
         "id": "ncyp",
-        "symbol": "☺",
+        "symbol": "⚂",
         "pair": 5
     },
     {
         "id": "xyag",
-        "symbol": "☺",
+        "symbol": "⚂",
         "pair": 5
     },
     {
@@ -151,12 +151,12 @@ let cardsData = [
     },
     {
         "id": "gfus",
-        "symbol": "♦",
+        "symbol": "✿",
         "pair": 16
     },
     {
         "id": "gf8t",
-        "symbol": "♦",
+        "symbol": "✿",
         "pair": 16
     }
 ]
