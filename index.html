@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="code.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="modal" class="modal-container">
+        <div id="modalContent" class="modal-content">
+        </div>
+
+    </div>
+    <div class="welcome">
+        <div class="header"> Hello! welcome to my memory game</div>
+        <div class="text"> please select with how many cards would you like to play</div>
+        <div id="btnDis" class="buttons-display">
+            <button class="button-d" onclick="setSize(8)">8</button>
+            <button class="button-d" onclick="setSize(16)">16</button>
+            <button class="button-d" onclick="setSize(32)">32</button>
+        </div>
+    </div>
+
+    <div id="cardContainer" class="card-container">
+        <div id="displayErea">
+        </div>
+    </div>
+
+</body>
+<script>
+    loadData()
+</script>
+
+</html>

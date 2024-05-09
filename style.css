@@ -1,0 +1,134 @@
+body {
+    margin: 0px;
+    font-family: system-ui;
+    background-color: #292929;
+}
+
+.card-container{
+    background-color: #95A3C4;
+    border: solid 1px black;
+    width: 568px;
+    height: 283px;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: 4px 4px 3px #0000005f;
+    visibility: hidden;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #000;
+    border-radius: 4px;
+    margin: 10px;
+    color: #1F283E;
+    float: left;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    background-color: #1F283E;
+    user-select: none;
+    transition: all 0.2s;
+}
+
+.card:hover {
+    box-shadow: 4px 4px 3px #0000005f;
+    transform: translateY(-3px);
+}
+
+.modal-container {
+    visibility: hidden;
+    background-color: #00000037;
+    position: fixed;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.modal-content {
+    width: 300px;
+    background-color: #fff;
+    color: #4e659c;
+    text-align: center;
+    margin: auto;
+    box-shadow: 3px 3px 3px #0000005f;
+    border: solid 1px #000;
+    border-radius: 4px;
+    margin: 16.6% auto;
+    font-size: 35px;
+    padding: 25px;
+}
+
+.welcome {
+    height: 70px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #4e659c;
+    box-shadow: 3px 3px 3px #0000005f;
+    animation: slideup 1.5s;
+}
+
+@keyframes slideup {
+    from{
+        transform: translateY(-100px);
+        visibility: hidden;
+    }
+
+    to{
+        transform: translate(0);
+        visibility: visible;
+    }
+}
+
+.header {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 5px;
+}
+.text{
+    color: #fff;
+    font-weight: bold;
+    font-size: 17px;
+    margin: 7px;
+}
+.buttons-display {
+    margin-top: 150px;
+}
+.button-d {
+    background-color: #292929;
+    border: none;
+    font-weight: bolder;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.button-d:hover {
+    color: #9cbaff;
+    transform: translateY(-2px);
+    font-size: 20px;
+}
+
+.button-p{
+    border: none;
+    padding: 7px;
+    background-color: #95A3C4;
+    color: #fff;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 4px;
+    border: solid 1px #7A85A0;
+    box-shadow: 3px 3px 3px #0000005f;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.button-p:hover{
+    background-color: #8ea7de;
+}
