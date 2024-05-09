@@ -1,162 +1,162 @@
 let cardsData = [
     {
         "id": "kcet",
-        "symbol": "&#9728;",
+        "symbol": "☀",
         "pair": 1
     },
     {
         "id": "rgfd",
-        "symbol": "&#9728;",
+        "symbol": "☀",
         "pair": 1
     },
     {
         "id": "pihn",
-        "symbol": "&#9730;",
+        "symbol": "☂",
         "pair": 2
     },
     {
         "id": "xqwe",
-        "symbol": "&#9730;",
+        "symbol": "☂",
         "pair": 2
     },
     {
         "id": "wtba",
-        "symbol": "&#9733;",
+        "symbol": "★",
         "pair": 3
     },
     {
         "id": "blsk",
-        "symbol": "&#9733;",
+        "symbol": "★",
         "pair": 3
     },
     {
         "id": "zdmn",
-        "symbol": "&#9752;",
+        "symbol": "☘",
         "pair": 4
     },
     {
         "id": "uytm",
-        "symbol": "&#9752;",
+        "symbol": "☘",
         "pair": 4
     },
     {
         "id": "ncyp",
-        "symbol": "&#9786;",
+        "symbol": "☺",
         "pair": 5
     },
     {
         "id": "xyag",
-        "symbol": "&#9786;",
+        "symbol": "☺",
         "pair": 5
     },
     {
         "id": "gwyu",
-        "symbol": "&#9835;",
+        "symbol": "♫",
         "pair": 6
     },
     {
         "id": "qjta",
-        "symbol": "&#9835;",
+        "symbol": "♫",
         "pair": 6
     },
     {
         "id": "qasf",
-        "symbol": "&#9872;",
+        "symbol": "⚐",
         "pair": 7
     },
     {
         "id": "ejsz",
-        "symbol": "&#9872;",
+        "symbol": "⚐",
         "pair": 7
     },
     {
         "id": "jghp",
-        "symbol": "&#9883;",
+        "symbol": "⚛",
         "pair": 8
     },
     {
         "id": "qfhe",
-        "symbol": "&#9883;",
+        "symbol": "⚛",
         "pair": 8
     },
     {
         "id": "btpe",
-        "symbol": "&#9885;",
+        "symbol": "⚝",
         "pair": 9
     },
     {
         "id": "wpej",
-        "symbol": "&#9885;",
+        "symbol": "⚝",
         "pair": 9
     },
     {
         "id": "lfyt",
-        "symbol": "&#10022;",
+        "symbol": "✦",
         "pair": 10
     },
     {
         "id": "nrmz",
-        "symbol": "&#10022;",
+        "symbol": "✦",
         "pair": 10
     },
     {
         "id": "bces",
-        "symbol": "&#10045;",
+        "symbol": "✽",
         "pair": 11
     },
     {
         "id": "iksa",
-        "symbol": "&#10045;",
+        "symbol": "✽",
         "pair": 11
     },
     {
         "id": "kwop",
-        "symbol": "&#10054;",
+        "symbol": "❆",
         "pair": 12
     },
     {
         "id": "zpxb",
-        "symbol": "&#10054;",
+        "symbol": "❆",
         "pair": 12
     },
     {
         "id": "bdte",
-        "symbol": "&#10070;",
+        "symbol": "❖",
         "pair": 13
     },
     {
         "id": "rlsa",
-        "symbol": "&#10070;",
+        "symbol": "❖",
         "pair": 13
     },
     {
         "id": "sfze",
-        "symbol": "&#9743;",
+        "symbol": "☏",
         "pair": 14
     },
     {
         "id": "hkre",
-        "symbol": "&#9743;",
+        "symbol": "☏",
         "pair": 14
     },
     {
         "id": "agwp",
-        "symbol": "&#9900;",
+        "symbol": "⚬",
         "pair": 15
     },
     {
         "id": "bvmn",
-        "symbol": "&#9900;",
+        "symbol": "⚬",
         "pair": 15
     },
     {
         "id": "gfus",
-        "symbol": "&#x2666;",
+        "symbol": "♦",
         "pair": 16
     },
     {
         "id": "gf8t",
-        "symbol": "&#x2666;",
+        "symbol": "♦",
         "pair": 16
     }
 ]
