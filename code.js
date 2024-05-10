@@ -11,12 +11,12 @@ let cardsData = [
     },
     {
         "id": "pihn",
-        "symbol": "☂",
+        "symbol": "☐",
         "pair": 2
     },
     {
         "id": "xqwe",
-        "symbol": "☂",
+        "symbol": "☐",
         "pair": 2
     },
     {
